@@ -6,8 +6,8 @@ from ase.neighborlist import NeighborList
 
 
 # This is adapted code from the ase package (LennardJones class)
-# This part of the test code is licensed under a GNU Lesser General Public License (LGPL)
-# See http://www.gnu.org/licenses/lgpl-3.0.html for more information
+
+
 
 
 # This Potential is not intended to give correct energies, forces or stresses, it just delivers something to test the rest of the code.
